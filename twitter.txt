@@ -978,8 +978,6 @@ odatv
 ahaber
 halktvcomtr
 tele1comtr
-pusholder
-bpthaber
 dmmiletisim
 aslannalper
 DrOmerileri
